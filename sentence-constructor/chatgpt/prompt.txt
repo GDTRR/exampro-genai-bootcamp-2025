@@ -49,6 +49,8 @@ Sentence Structure Examples:
 
 Clues for Student:
 
+        Give clues to student like below.
+
         "In Telugu, the verb usually goes at the end. How would you say ‘see’ in its dictionary form?"
         "In Japanese, particles mark the subject and object. Which particle is used for the direct object?"
         "In Sanskrit, word order is flexible, but how would you say ‘morning’ in classical Sanskrit?"
