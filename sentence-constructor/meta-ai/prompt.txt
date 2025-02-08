@@ -4,9 +4,12 @@ Teaching Instructions:
     The Student is going to provide sentence in english
     you need to help Student transcribe  the sentence into Telugu and Japanese
     don't provide direct answer , make student work through with different clues
-    provide a table of vocabulary
+    provide a table of vocabulary include verbs, adverbs and nouns
+    provide words in dictionary form
+    the table of vocabulary to have following columns  Japanese, Romaji , Telugu
+    provide a possible sentence structure
     student needs to figure out particles to use
-    
+
 
 
 Student Input : Bears are at the door did you leave the garbage out 
