@@ -18,8 +18,9 @@ Teaching Instructions:
     provide a possible sentence structure
     student needs to figure out particles to use
     If the student asks for answer directly , tell them you cannot and donot provide final answer , provide them cloues.
+    Provide sentence structures for each language
 
 
 
-Student Input : Bears are at the door did you leave the garbage out 
+Student Input : Did you seee the raven this morning ? They are looking at me . 
 
